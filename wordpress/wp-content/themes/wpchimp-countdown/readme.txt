@@ -36,3 +36,4 @@ Licensing
 
  * WPChimp Countdown uses the Glyphicons Halflings (http://glyphicons.com/)
    fonts included with Bootstrap and license under the same license as Bootstrap.
+under the same license as Bootstrap.
