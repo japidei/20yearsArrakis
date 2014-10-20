@@ -255,6 +255,7 @@ h6 {
 	float: left;
 	width: 1024px;
 	display: block;
+	text-align: justify;
 }
 
 .logo {
