@@ -162,6 +162,15 @@ a:hover {
 	color:#444;
 }
 
+#horario a:focus , #horario a:link, #horario a:active {
+	outline:none;
+	color:#FF0000;
+}
+
+#horario a:hover {
+	color:#FFFFFF;
+}
+
 p {
 	margin-bottom:20px;
 	color: #e2e2e2;
@@ -250,11 +259,12 @@ h6 {
 }
 
 .content-wrapper {
-	margin: 80px 0 130px 65px;
+	margin: 40px 0 130px 65px;
 	position: relative;
 	float: left;
-	width: 780px;
+	width: 1024px;
 	display: block;
+	text-align: justify;
 }
 
 .logo {
@@ -262,10 +272,16 @@ h6 {
 }
 
 p {
-	font-size: 18px;
-	line-height: 26px;
+	font-size: 14px;
+	line-height: 18px;
 }
 
+#horario {
+	font-size: 22px;
+	font-weight: bold;
+	line-height: 24px;
+	
+}
 .separator {
 	clear: both;
 	display: block;
