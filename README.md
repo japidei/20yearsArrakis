@@ -13,9 +13,16 @@ Os esperamos.
 ---
 
 Google Spreadsheets
+
 Facebook
+
 Bit.ly
+
 Github
+
 FTPloy
+
 Paypal
+
 Eventbrite
+
