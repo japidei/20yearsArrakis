@@ -267,6 +267,11 @@ p {
 	line-height: 18px;
 }
 
+#horario {
+		font-size: 18px;
+	line-height: 22px;
+	
+}
 .separator {
 	clear: both;
 	display: block;
