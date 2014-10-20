@@ -156,10 +156,18 @@ a {
 
 a:focus , a:link, a:active {
 	outline:none;
-	color:#FF0000;
 }
 
 a:hover {
+	color:#444;
+}
+
+#presupuesto a:focus , #presupuesto a:link, #presupuesto a:active {
+	outline:none;
+	color:#FF0000;
+}
+
+#presupuesto a:hover {
 	color:#FFFFFF;
 }
 
