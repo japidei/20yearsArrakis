@@ -162,12 +162,12 @@ a:hover {
 	color:#444;
 }
 
-#presupuesto a:focus , #presupuesto a:link, #presupuesto a:active {
+#horario a:focus , #horario a:link, #horario a:active {
 	outline:none;
 	color:#FF0000;
 }
 
-#presupuesto a:hover {
+#horario a:hover {
 	color:#FFFFFF;
 }
 
