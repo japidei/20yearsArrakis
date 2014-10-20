@@ -156,10 +156,11 @@ a {
 
 a:focus , a:link, a:active {
 	outline:none;
+	color:#FF0000;
 }
 
 a:hover {
-	color:#444;
+	color:#000000;
 }
 
 p {
