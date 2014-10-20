@@ -9,3 +9,13 @@ Hemos puesto un botón de Paypal en http://20años.arrakis.es/ para ir pagando. 
 Tenéis hasta las 23:59 del Miércoles de la semana que viene (22/10) para pagar.
 
 Os esperamos.
+
+---
+
+Google Spreadsheets
+Facebook
+Bit.ly
+Github
+FTPloy
+Paypal
+Eventbrite
