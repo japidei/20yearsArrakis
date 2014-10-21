@@ -19,5 +19,5 @@ Os esperamos.
 ![FTPloy](/tech/ftploy.ico?raw=true "FTPloy")
 ![Paypal](/tech/paypal.ico?raw=true "Paypal")
 ![Eventbrite](/tech/eventbrite.ico?raw=true "Eventbrite")
-![Google Views](/tech/eventbrite.ico?raw=true "Google Views")
+![Google Views](/tech/google-views.ico?raw=true "Google Views")
 
