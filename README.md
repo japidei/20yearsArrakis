@@ -13,7 +13,7 @@ Os esperamos.
 ---
 
 ![Google Spreadsheets](/tech/google-spreadsheet.png?raw=true "Google Spreadsheets")
-![Facebook](/tech/google-spreadsheet.png?raw=true "Facebook")
+![Facebook](/tech/facebook.ico?raw=true "Facebook")
 ![Bit.ly](/tech/bitly.png?raw=true "Bit.ly")
 ![Github](/tech/github.ico?raw=true "Github")
 ![FTPloy](/tech/ftploy.ico?raw=true "FTPloy")
