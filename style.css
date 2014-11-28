@@ -354,15 +354,6 @@ ul.footer-info li {
 	margin-right: 30px;
 }
 
-ul.tech {
-        overflow: hidden;
-        display: block;
-        position: absolute;
-        top: -40px;
-        right: 65px;
-}
-
-
 ul.social {
 	overflow: hidden;
 	display: block;
@@ -393,6 +384,22 @@ ul.social li a:hover {
 ul.social i {
 	
 }
+
+ul.tech {
+        overflow: hidden;
+        display: block;
+        position: absolute;
+        top: -40px;
+        right: 65px;
+}
+
+ul.tech li {
+	display:inline;
+	float:left;
+	font-size: 18px;
+	margin-right: 10px;
+}
+
 
 .credits {
 	float: right;
