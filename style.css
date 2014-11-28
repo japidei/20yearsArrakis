@@ -269,7 +269,7 @@ h6 {
 
 .logo {
 	margin-bottom: 50px;
-	class: right;
+	float: right;
 }
 
 p {
