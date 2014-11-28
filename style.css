@@ -396,3 +396,15 @@ div#paga {
 	margin-left: 50%;
 	margin-top: -35px;
 }
+
+.columna1 {
+position: relative;
+width: 50%;
+float: left;
+}
+
+.columna2 {
+position: relative;
+width: 50%;
+float: right;
+}
