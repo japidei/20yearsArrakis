@@ -166,7 +166,7 @@ a:hover {
 	outline:none;
 	color:#FF0000;
 }
-
+o
 #horario a:hover {
 	color:#FFFFFF;
 }
@@ -353,6 +353,15 @@ ul.footer-info li {
 	float:left;
 	margin-right: 30px;
 }
+
+ul.tech {
+        overflow: hidden;
+        display: block;
+        position: absolute;
+        top: -40px;
+        right: 65px;
+}
+
 
 ul.social {
 	overflow: hidden;
