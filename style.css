@@ -390,12 +390,12 @@ ul.tech {
         display: block;
         position: absolute;
         top: -40px;
-        right: 265px;
+        right: 65px;
 }
 
 ul.tech li {
 	display:inline;
-	float:left;
+	float:right;
 	font-size: 18px;
 	margin-right: 10px;
 }
