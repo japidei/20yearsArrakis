@@ -166,7 +166,7 @@ a:hover {
 	outline:none;
 	color:#FF0000;
 }
-
+o
 #horario a:hover {
 	color:#FFFFFF;
 }
@@ -269,6 +269,7 @@ h6 {
 
 .logo {
 	margin-bottom: 50px;
+	float: right;
 }
 
 p {
@@ -385,6 +386,22 @@ ul.social i {
 	
 }
 
+ul.tech {
+        overflow: hidden;
+        display: block;
+        position: absolute;
+        top: -40px;
+        left: 755px;
+}
+
+ul.tech li {
+	display:inline;
+	float:right;
+	font-size: 18px;
+	margin-right: 10px;
+}
+
+
 .credits {
 	float: right;
 	margin-right: 10px;
@@ -395,4 +412,16 @@ div#paga {
 	margin-right: 100px;
 	margin-left: 50%;
 	margin-top: -35px;
+}
+
+.columna1 {
+position: relative;
+width: 50%;
+float: left;
+}
+
+.columna2 {
+position: relative;
+width: 50%;
+float: right;
 }
