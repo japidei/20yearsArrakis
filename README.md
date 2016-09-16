@@ -1,4 +1,6 @@
-﻿Porque hemos marcado los inicios de internet en España, porque somos muchos los que directa o indirectamente hemos tenido relación con Arrakis, porque la mayoría de nosotros seguimos trabajando en lo que nos gusta, en el sector de las telecomunicaciones, teniendo mucho que compartir y porque ya hace más o menos tiempo que no nos vemos… tenemos la excusa y las herramientas perfectas para quedar y disfrutar de nuevo juntos.
+<http://japidei.github.io/20yearsArrakis/>
+
+Porque hemos marcado los inicios de internet en España, porque somos muchos los que directa o indirectamente hemos tenido relación con Arrakis, porque la mayoría de nosotros seguimos trabajando en lo que nos gusta, en el sector de las telecomunicaciones, teniendo mucho que compartir y porque ya hace más o menos tiempo que no nos vemos… tenemos la excusa y las herramientas perfectas para quedar y disfrutar de nuevo juntos.
 
 ¿Dónde?, en Sevilla, en el edificio que nos vio nacer, ¿cuándo?, estaba escrito, el 25-10, que si os fijáis bien son los mismos números de la fecha en que cumpliríamos 20 años de existencia, el 2015, ¿quién?, la organización es un movimiento espontáneo de todos los que en algún momento formamos parte del Planeta Arrakis… 
 
